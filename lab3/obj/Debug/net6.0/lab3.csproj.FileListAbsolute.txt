@@ -1,0 +1,118 @@
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\appsettings.json
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\lab3.exe
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\lab3.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\lab3.pdb
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\scopedcss\bundle\lab3.styles.css
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.csproj.CopyComplete
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.pdb
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\ferru\OneDrive\Рабочий стол\5semester\ПриложенияБД\доп\lab3\obj\Debug\net6.0\ref\lab3.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\appsettings.json
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\lab3.exe
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\lab3.deps.json
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\lab3.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\lab3.pdb
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\scopedcss\bundle\lab3.styles.css
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.csproj.CopyComplete
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\refint\lab3.dll
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.pdb
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
+C:\Users\Мария Колесина\Downloads\ААА наверх\новое начало\БД\лаба3\lab3\obj\Debug\net6.0\ref\lab3.dll
